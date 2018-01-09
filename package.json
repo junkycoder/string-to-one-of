@@ -1,0 +1,26 @@
+{
+  "name": "string-to-one-of",
+  "version": "0.0.1",
+  "description": "Convert string to one item of given array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junkycoder/string-to-one-of.git"
+  },
+  "keywords": [
+    "string",
+    "array",
+    "generate",
+    "color",
+    "one"
+  ],
+  "author": "Dan Hromada <hromada.dan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/junkycoder/string-to-one-of/issues"
+  },
+  "homepage": "https://github.com/junkycoder/string-to-one-of#readme"
+}
