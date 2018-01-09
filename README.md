@@ -30,5 +30,5 @@ stringToOneOf('john.doe@example.com', colors); // #E864B8
 
 stringToOneOf('json.fortuna@example.com', colors); // #44D8BB
 
-stringToOneOf('json.fortuna@example.com', colors); // #44D8BB
+stringToOneOf('yaman.whatever@example.com', colors); // #299CD7
 ```
