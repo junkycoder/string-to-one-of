@@ -1,10 +1,11 @@
 {
   "name": "string-to-one-of",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Convert string to one item of given array.",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "pretest": "npm run build",
+    "test": "node ./test",
     "build": "babel src -d lib",
     "prepare": "npm run build"
   },
@@ -27,6 +28,7 @@
   "homepage": "https://github.com/junkycoder/string-to-one-of#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
+    "babel-plugin-add-module-exports": "^0.2.1",
     "babel-preset-env": "^1.6.1"
   }
 }
