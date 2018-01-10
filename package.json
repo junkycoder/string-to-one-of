@@ -1,6 +1,6 @@
 {
   "name": "string-to-one-of",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Convert string to one item of given array.",
   "main": "lib/index.js",
   "scripts": {
